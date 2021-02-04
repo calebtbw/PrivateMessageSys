@@ -1,0 +1,12 @@
+name: PrivateMessageSys
+version: ${project.version}
+main: me.calebtbw.privatemessagesys.PrivateMessageSys
+api-version: 1.16
+authors: [ CalebT ]
+description: Simple Plugin for Private Messaging
+website: http://calebtbw.me
+commands:
+  message:
+    aliases: [msg]
+  reply:
+    aliases: [r]
